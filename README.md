@@ -10,4 +10,4 @@ Curso feito no youtube course by Markzuel
     <li>CSS3</li></ul>
 
 ## Acesso
-https://tacial.github.io/DAAS-lp/
+https://tacial.github.io/Html-Css-responsivo/
